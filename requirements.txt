@@ -1,0 +1,5 @@
+torch==2.2.0
+python==3.11.3
+opencv-python==4.9.0.80
+flask=2.2.2
+gradio==4.24.0
